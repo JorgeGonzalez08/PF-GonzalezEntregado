@@ -23,8 +23,8 @@ Cuenta con 5 secciones:
 
 ## Pagina en Github Pages 🚀
 
-- [Link]()
+- [Link](https://jorgegonzalez08.github.io/PF-Gonzalez/)
 
 ## Pagina en Netlify 🚀
 
-- [Link]()
+- [Link](https://bordadosvalencia.netlify.app/)
